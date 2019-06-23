@@ -1,0 +1,11 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=2
+nrows=1
+[column_names]
+0000=path
+0001=image
+[column_files]
+0000=m_48e0f8942afe715.sidx:0
+0001=m_48e0f8942afe715.sidx:1
